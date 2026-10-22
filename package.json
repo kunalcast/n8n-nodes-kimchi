@@ -3,7 +3,7 @@
 	"version": "0.1.0",
 	"description": "n8n community node for Kimchi Inference by Cast AI — serverless LLM chat completions via an OpenAI-compatible API",
 	"license": "MIT",
-	"homepage": "https://github.com/kunalworldwide/n8n-nodes-kimchi",
+	"homepage": "https://github.com/kunalcast/n8n-nodes-kimchi",
 	"keywords": [
 		"n8n-community-node-package",
 		"kimchi",
@@ -17,7 +17,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/kunalworldwide/n8n-nodes-kimchi.git"
+		"url": "https://github.com/kunalcast/n8n-nodes-kimchi.git"
 	},
 	"scripts": {
 		"build": "n8n-node build",
